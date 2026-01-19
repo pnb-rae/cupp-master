@@ -84,5 +84,4 @@ http://www.remote-exploit.org/content/cupp-3.0.tar.gz
 http://www.remote-exploit.org/articles/misc_research__amp_code/index.html  
 to encourage further development of the tool.
 
-```you can also visit my blog at https://www.ryan-gitau.com/```
-```fffrgh;hiosrhjotlojtjkdrkjdhfuidfhshuislluilsr
+``
